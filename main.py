@@ -1,1 +1,6 @@
-print('satom dunyo')
+print('salom dunyo')
+
+
+
+
+print("cherez git ")
